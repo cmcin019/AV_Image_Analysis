@@ -1,0 +1,4 @@
+Import:
+- configs/mobilenet_v2/mobilenet_v2.yml
+- configs/mobilenet_v3/mobilenet_v3.yml
+- configs/pspnet/pspnet.yml

@@ -1,0 +1,14 @@
+indir: /road_seg  # to be overriden in CLI
+outdir: /data/kitti/input/2011_09_26/2011_09_26_drive_0002_sync/image_02/data  # to be overriden in CLI
+
+model:
+  path: no  # to be overriden in CLI
+  checkpoint: best.ckpt
+
+dataset:
+  kind: default
+  img_suffix: .png
+  pad_out_to_modulo: 8
+
+device: cuda
+out_key: inpainted
