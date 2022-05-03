@@ -25,6 +25,7 @@ Clone the repo:
 4. Download checkpoints from add them to the checkpoints folder
 	PSPNET
 	https://drive.google.com/file/d/1ydBpkFAZ0CX7BD3iALGTr03UUUd_sfXn/view?usp=sharing 
+	
 	DEPTH
 	https://drive.google.com/file/d/13XS8X5p_mS_-SBuEsw1Sw7yGVUvYg0tY/view?usp=sharing 
 
